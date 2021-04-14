@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page version="2.0">
+<navigation>
+<link accesskey="1" pageId="b01.xml">Special Offers</link>
+<link accesskey="2" pageId="show-balance.php">Show Balance</link>
+<link accesskey="3" pageId="send-money">Send Money</link>
+<link accesskey="4" pageId="b02.xml">Contact us</link>
+</navigation>
+</page>

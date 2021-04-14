@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page version="2.0">
+<navigation>
+<link accesskey="1" pageId="b01.xml">Special Offers</link>
+<!--The items "2. Show Balance" and "3. Send Money" are still missing-->
+<link accesskey="2" pageId="b02.xml">Contact us</link>
+</navigation>
+</page>
